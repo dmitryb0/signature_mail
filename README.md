@@ -43,8 +43,9 @@
                 <p class="text-dark" style="margin-left: 20px;margin-top: 40px;"></p>
             </div>    
        </div>
-</body>
-
-
+    
+<div>
            </p>AWEB<img src="assets/Screenshot_1.png"</p>
            </p>TheAdvert<img src="assets/Screenshot_2.png"</p>
+</div>
+</body>
