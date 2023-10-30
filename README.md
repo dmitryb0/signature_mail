@@ -6,8 +6,8 @@
         <nav class="navbar navbar-dark align-items-start sidebar sidebar-dark accordion bg-gradient-primary p-0">
             <div class="container-fluid d-flex flex-column p-0">
                 <ul class="navbar-nav text-light" id="accordionSidebar" style="height: 118px;margin-top: 20px;">
-                    <li class="nav-item"><a class="nav-link" href="#1"><i class="fa fa-envelope-o" style="padding-right: 10px;"></i><span><strong>Подпись</strong><br></span></a></li>
-                    <li class="nav-item"><a class="nav-link" href="#2"><i class="fa fa-envelope-o" style="padding-right: 10px;"></i><span><strong>Thunderbird</strong></span></a></li>
+                    <li class="nav-item"><a class="nav-link" href="#подготовка-подписи"><i class="fa fa-envelope-o" style="padding-right: 10px;"></i><span><strong>Подпись</strong><br></span></a></li>
+                    <li class="nav-item"><a class="nav-link" href="#настройка-подписи-дляthunderbird"><i class="fa fa-envelope-o" style="padding-right: 10px;"></i><span><strong>Thunderbird</strong></span></a></li>
                 </ul>
             </div>
         </nav>
@@ -15,10 +15,10 @@
             <div id="content">
                 <div class="container-fluid" style="height: 60px;margin-bottom: 40px;">
                     <div class="d-sm-flex justify-content-between align-items-center mb-4">
-                        <h3 id="1> class="text-dark mb-0" style="padding-top: 24px;">Подготовка подписи&nbsp;<br></h3>
+                        <h3 class="text-dark mb-0" style="padding-top: 24px;">Подготовка подписи&nbsp;<br></h3>
                     </div>
                 </div>
-                <p class="text-dark" style="margin-left: 20px;font-family: Nunito, sans-serif;"><strong>1</strong>. Скачиваем оба файла - <a href="http://signature.barminda.website/download/signature_html.zip">скачать</a><br>Распаковываем&nbsp;signature_html.zip<br>Открываем файлы блокнотом, но я рекомендую текстовый редактор:&nbsp;<a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code</a>, либо&nbsp;<a href="https://www.sublimetext.com/3" target="_blank">Sublime Text</a>&nbsp;<br>Далее нужно заменить данные в файлах.&nbsp;<br><br><em>Примеры как будут выглядеть&nbsp;</em><a href="http://signature.barminda.website/download/signature_aweb.html" target="_blank"><em><span style="color: var(--bs-link-color);">AWEB</span></em></a><em>&nbsp;и&nbsp;</em><a href="http://signature.barminda.website/download/signature_advert.html" target="_blank"><em><span style="color: var(--bs-link-color);">TheAdvert</span></em></a></p>
+                <p class="text-dark" style="margin-left: 20px;font-family: Nunito, sans-serif;"><strong>1</strong>. Скачиваем оба файла - <a href="download/signature_html.zip">скачать</a><br>Распаковываем&nbsp;signature_html.zip<br>Открываем файлы блокнотом, но я рекомендую текстовый редактор:&nbsp;<a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code</a>, либо&nbsp;<a href="https://www.sublimetext.com/3" target="_blank">Sublime Text</a>&nbsp;<br>Далее нужно заменить данные в файлах.&nbsp;<br><br><em>Примеры как будут выглядеть&nbsp;</em><a href="http://signature.barminda.website/download/signature_aweb.html" target="_blank"><em><span style="color: var(--bs-link-color);">AWEB</span></em></a><em>&nbsp;и&nbsp;</em><a href="http://signature.barminda.website/download/signature_advert.html" target="_blank"><em><span style="color: var(--bs-link-color);">TheAdvert</span></em></a></p>
                 <p class="text-dark" style="margin-left: 20px;font-family: Nunito, sans-serif;margin-bottom: 0;"><strong>2</strong>. Редактируем ФИ и должность (всё что подчеркнуто находится внутри &gt;&lt;<br><strong><em>Важно:</em></strong><em> не удаляйте между фамилией и именем</em> - &amp;nbsp;</p><img src="assets/img/Screenshot%20at%20Apr%2004%2023-45-15.png" style="margin: 20px;margin-left: 20px;width: 940px;margin-top: 0;">
                 <p class="text-dark" style="margin-left: 20px;font-family: Nunito, sans-serif;margin-bottom: 0;">Меняем добавочный</p><img src="assets/img/Screenshot%20at%20Apr%2004%2023-53-14.png" style="width: 940px;margin: 20px;margin-left: 20px;margin-top: 0;margin-right: 0;margin-bottom: 20px;">
                 <p class="text-dark" style="margin-left: 20px;font-family: Nunito, sans-serif;margin-bottom: 0;">Меняем почту. Обратите внимание, чтобы почта была кликабельная нужно записать после mailto: , <br>а чтобы отображался текст самой почты, нужно записать между &gt;&lt;</p><img src="assets/img/Screenshot%20at%20Apr%2005%2000-08-35.png" style="width: 940px;margin: 20px;margin-left: 20px;margin-bottom: 20px;margin-top: 0;margin-right: 0;">
@@ -33,7 +33,7 @@
             <div id="content">
                 <div class="container-fluid" style="height: 60px;margin-bottom: 40px;">
                     <div class="d-sm-flex justify-content-between align-items-center mb-4">
-                        <h3 id="2" class="text-dark mb-0" style="padding-top: 24px;">Настройка подписи для&nbsp;Thunderbird</h3>
+                        <h3 class="text-dark mb-0" style="padding-top: 24px;">Настройка подписи для&nbsp;Thunderbird</h3>
                     </div>
                 </div>
                 <p class="text-dark" style="margin-left: 20px;"><strong>1. </strong>Открывается настройки: Три горизонтальные полоски в правом верхнем углу - "Настройки".</p><img src="assets/img/Tempclipboard-image.png" style="width: 1130px;margin-right: 0px;margin-left: 20px;">
