@@ -45,7 +45,7 @@
        </div>
     
 <div>
-           </p>AWEB<img src="assets/Screenshot_1.png"</p>
-           </p>TheAdvert<img src="assets/Screenshot_2.png"</p>
+           </p><img src="assets/Screenshot_1.png"<a href="#AWEB"></a></p>
+           </p><img src="assets/Screenshot_2.png"<a href="#TheAdvert"></a></p>
 </div>
 </body>
