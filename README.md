@@ -43,9 +43,10 @@
                 <p class="text-dark" style="margin-left: 20px;margin-top: 40px;"></p>
             </div>    
        </div>
-    
 <div>
-           </p><img src="assets/Screenshot_1.png"<a href="#AWEB"></a></p>
-           </p><img src="assets/Screenshot_2.png"<a href="#TheAdvert"></a></p>
+<h3 class="text-dark mb-0" style="padding-top: 24px;">AWEB</h3>
+</p><img src="assets/Screenshot_1.png"</p>
+<h3 class="text-dark mb-0" style="padding-top: 24px;">TheAdvert</h3>
+</p><img src="assets/Screenshot_2.png"</p>
 </div>
 </body>
